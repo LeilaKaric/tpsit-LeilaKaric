@@ -1,0 +1,7 @@
+Output comando "git log --oneline --graph --all":
+```
+* cc7a974 (HEAD -> main, origin/main, origin/HEAD) FEAT: inizio esercizio 3, aggiunta di nome e classe nel file README, impostazione di user.name e user.email
+* dd28d6b FEAT: fine secondo esercizio
+* 7d0dd5c FEAT: secondo esercizio
+* 58fc5be Initial commit
+```

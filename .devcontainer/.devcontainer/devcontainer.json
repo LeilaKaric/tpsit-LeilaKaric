@@ -1,0 +1,13 @@
+{
+  "name": "TPSIT 4BI",
+  "customizations": {
+    "vscode": {
+      "settings": {
+        "editor.rulers": [100]
+      },
+      "extensions": [
+        "streetsidesoftware.code-spell-checker"
+      ]
+    }
+  }
+}
